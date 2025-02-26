@@ -6,10 +6,9 @@
 
 ## 👨💻 Sobre Mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Atualmente focado em: **Java Spring Boot** e **React**  
-💡 Fascinado por resolver problemas complexos com código  
-🌱 Aprendendo: **Arquitetura de Microsserviços** e **Cloud AWS**  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Cedup 
+🚀 Atualmente focado em: **Java Spring Boot**   
+💡 Fascinado por resolver problemas complexos com código    
 🎯 Objetivo: Desenvolver soluções impactantes e escaláveis
 
 ---
