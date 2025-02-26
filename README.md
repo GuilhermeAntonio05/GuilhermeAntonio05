@@ -6,7 +6,7 @@ Sou um estudante em busca de novos aprendizados, procurando aperfeiçoamento, de
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,angular,react,spring,postgres,mysql)](https://skillicons.dev)
 
 > HTML5, CSS, Java, PostgreSQL, MySQL.
 
