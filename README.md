@@ -12,7 +12,7 @@ Sou um estudante em busca de novos aprendizados, procurando aperfeiçoamento, de
 
 </div>
 
-> HTML5, CSS, JavaScript, Angular, React, Java, Spring, PostgreSQL, MySQL, Docker, Git, Github.
+> HTML5, CSS, JavaScript, Angular, React, Java, Spring, PostgreSQL, MySQL, Docker, Git.
 
 ## Principais Projetos
 
