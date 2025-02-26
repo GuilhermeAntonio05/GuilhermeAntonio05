@@ -6,8 +6,9 @@
 
 ## 👨💻 Sobre Mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Cedup                           🚀 Atualmente focado em: **Java Spring Boot**   
-💡 Fascinado por resolver problemas complexos com código    
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Cedup  
+🚀 Atualmente focado em: **Java Spring Boot**  
+💡 Fascinado por resolver problemas complexos com código  
 🎯 Objetivo: Desenvolver soluções impactantes e escaláveis
 
 ---
@@ -31,7 +32,7 @@
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=-for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
