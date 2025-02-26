@@ -2,13 +2,13 @@
 
 ## Sobre Mim
 
-Sou um estudante em busca de novos aprendizados, procurando aperfeiçoamento, descobertas de novas tecnologias.
+Sou um estudante em busca de novos aprendizados, procurando aperfeiçoamento, descobertas de novas tecnologias e um lugar de aprendizado.
 
 ## Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,java,spring,postgres,mysql)](https://skillicons.dev)
 
-> HTML5, CSS, Java, PostgreSQL, MySQL.
+> HTML5, CSS, JavaScript, Angular, React, Java, Spring, PostgreSQL, MySQL.
 
 ## Principais projetos
 
