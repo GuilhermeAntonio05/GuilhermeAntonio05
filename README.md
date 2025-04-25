@@ -4,12 +4,12 @@
 
 ---
 
-## 👨💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Cedup  
-🚀 Atualmente focado em: **Java Spring Boot**  
-💡 Fascinado por resolver problemas complexos com código  
-🎯 Objetivo: Desenvolver soluções impactantes e escaláveis
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP  
+🚀 Atualmente focado em **Java com Spring Boot**  
+💡 Gosto de resolver problemas complexos com código  
+🎯 Objetivo: Criar soluções impactantes e escaláveis
 
 ---
 
@@ -30,7 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -39,17 +39,17 @@
 
 ## 🚀 Projetos Destacados
 
-### Tela de Login Segura 🔐
+### 🔐 Tela de Login Segura  
 [![Repositório](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/GuilhermeAntonio05/TelaDeLogin)  
-Tela de login moderna com validação de segurança integrada  
+Login moderno com validação de segurança  
 🛠️ **Tecnologias:** HTML5, CSS3, PHP, PostgreSQL  
-✅ Features: Validação em tempo real, Hash de senhas, Responsividade
+✅ **Destaques:** Validação em tempo real, hash de senhas, responsividade
 
-### Sistema Acadêmico DEVS2BLU 🎓
+### 🎓 Sistema Acadêmico DEVS2BLU  
 [![Repositório](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LoesterBotelho/DEVS2BLU)  
 Plataforma de gestão educacional com Java  
 🛠️ **Tecnologias:** Java 17, Spring Boot 3, MySQL  
-✅ Features: CRUD completo, Autenticação JWT, API RESTful
+✅ **Destaques:** CRUD completo, autenticação JWT, API RESTful
 
 ---
 
@@ -85,5 +85,5 @@ Plataforma de gestão educacional com Java
 ---
 
 <div align="center">
-  👨💻 "O único limite para a realização do amanhã são as nossas dúvidas de hoje." - Franklin Roosevelt
+  👨‍💻 "O único limite para a realização do amanhã são as nossas dúvidas de hoje." – Franklin D. Roosevelt
 </div>
