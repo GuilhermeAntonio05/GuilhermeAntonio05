@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre Mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP  
-🚀 Atualmente focado em **Java com Spring Boot**  
+🚀 Atualmente focado em **JavaScript & Node.js**  
 💡 Gosto de resolver problemas complexos com código  
 🎯 Objetivo: Criar soluções impactantes e escaláveis
 
